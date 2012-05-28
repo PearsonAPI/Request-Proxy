@@ -1,0 +1,8 @@
+{
+  "name": "PlugAndPlayProxy",
+  "version": "0.0.1",
+  "dependencies": {
+    "qs":"",
+    "url":""
+  }
+}
